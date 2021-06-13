@@ -1,0 +1,11 @@
+one\digitalinnovation\personapi\repository\PersonRepository.class
+one\digitalinnovation\personapi\controlle\PersonController.class
+one\digitalinnovation\personapi\entity\Person.class
+one\digitalinnovation\personapi\entity\Phone$PhoneBuilder.class
+one\digitalinnovation\personapi\response\MessageResponseDTO.class
+one\digitalinnovation\personapi\enums\PhoneType.class
+one\digitalinnovation\personapi\response\MessageResponseDTO$MessageResponseDTOBuilder.class
+one\digitalinnovation\personapi\services\PersonService.class
+one\digitalinnovation\personapi\entity\Phone.class
+one\digitalinnovation\personapi\entity\Person$PersonBuilder.class
+one\digitalinnovation\personapi\PersonapiApplication.class
